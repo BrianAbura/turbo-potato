@@ -2,6 +2,6 @@
 
 echo "This is the initial file created for turbo-potato";
 
-echo "Brian";
+echo "Brian Abura";
 
 ?>
