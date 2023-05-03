@@ -10,5 +10,7 @@
     <h1>Welcome to Turbo Potato</h1>
 
     <a href="about.php">About Us</a>
+
+    <p>This is the Potato Turbo</p>
 </body>
 </html>
