@@ -11,6 +11,6 @@
 
     <a href="about.php">About Us</a>
 
-    <p>This is the Potato Turbo</p>
+    <p style="color:green; font-size:20px">This is the Potato Turbo</p>
 </body>
 </html>
